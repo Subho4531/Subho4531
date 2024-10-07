@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jeet
+- 👀 I’m interested in WebDev, AI, and Music
+- 🌱 I’m currently learning Express.js, GitHub, and 3D modeling with Three.js
+- 📫 How to reach me at subhajeetgorai06@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m building a Virtual Herbal Garden showcasing medicinal plants!
