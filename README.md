@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>⚡I love creating new things <br>🚀Turning imagination into reality <br>🌱 I’m currently mastering WebDev<br>💬 Ask me about <Tech><br>⚡ Passion for music🚀 
+<br>⚡I love creating new things <br>🚀Turning imagination into reality <br>🌱 I’m currently mastering WebDev<br>💬 Ask me about <Tech> <br>⚡ Passion for music🚀 
 
 
 
