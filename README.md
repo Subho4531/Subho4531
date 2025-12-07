@@ -19,9 +19,7 @@
   <a href="https://github.com/subho4531">
     <img src="https://img.shields.io/github/stars/subho4531?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" />
   </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=subho4531&icon=0&color=1&style=for-the-badge" />
-  </a>
+ 
 
 </div>
 
