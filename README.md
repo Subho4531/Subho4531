@@ -4,6 +4,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Subhajeet+%F0%9F%91%8B;Web+Dev+%26+AI+Enthusiast;Turning+Imagination+Into+Reality+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
+  <a href="subhajeetgorai.vercel.app"> MY Portfolio </a>
+
 
 
   
