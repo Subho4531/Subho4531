@@ -10,7 +10,6 @@
   
   <br/>
   <img src="https://subhajeetgorai.vercel.app/assets/Coding%20-%20Pixel%20Jeff-CEp0EeJv.gif" width="220" alt="Coder GIF" />
-  <a href="subhajeetgorai.vercel.app" target="_blank" style="font : bold ; color:blue"> My Portfolio </a>
   
 
   <br><br>
