@@ -1,16 +1,16 @@
-<!-- PROFILE HEADER -->
+
 <div align="center">
   
-  <!-- Animated Typing Intro -->
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Subhajeet+%F0%9F%91%8B;Web+Dev+%26+AI+Enthusiast;Turning+Imagination+Into+Reality+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 
 
-  <!-- Small animated gif (optional) -->
+  
   <br/>
   <img src="https://subhajeetgorai.vercel.app/assets/Coding%20-%20Pixel%20Jeff-CEp0EeJv.gif" width="220" alt="Coder GIF" />
   
-  <!-- Profile Badges -->
+
   <br><br>
   <a href="https://github.com/subho4531">
     <img src="https://img.shields.io/github/followers/subho4531?label=Followers&style=for-the-badge&logo=github" />
@@ -48,7 +48,7 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Languages & Core -->
+
 **Languages & Core**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
