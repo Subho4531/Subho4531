@@ -5,9 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=900&color=F72585&center=true&vCenter=true&width=700&lines=Hey+I%27m+Subhajeet+%F0%9F%91%8B;Full+Stack+In+Progress;AI%2FML+Enthusiast;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation" />
 
 
+
   <!-- Small animated gif (optional) -->
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN5Nm9zaTR4eG0yMnA2a2pzdGhrYjByMXI2Ym1nNTVqZndkb2dpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j5hsmfoBd1iFfyOU5k/giphy.gif" width="220" alt="Coder GIF" />
+  <img src="https://subhajeetgorai.vercel.app/assets/Coding%20-%20Pixel%20Jeff-CEp0EeJv.gif" width="220" alt="Coder GIF" />
   
   <!-- Profile Badges -->
   <br><br>
